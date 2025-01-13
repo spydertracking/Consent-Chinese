@@ -1,5 +1,5 @@
-homepage: "https://github.com/spyder-com-tw/Consent_API_Chinese/"
-documentation: "https://github.com/spyder-com-tw/Consent_API_Chinese/blob/main/README.md"
+homepage: "https://github.com/spydertracking/Consent-Chinese"
+documentation: "https://github.com/spydertracking/Consent-Chinese/blob/main/README.md"
 versions:
   - sha: 829af8ba4b4ebad119b8160d09925afca6a6c8dd
     changeNotes: Initial release.
